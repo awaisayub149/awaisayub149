@@ -25,7 +25,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=awaisayub149&theme=minimal"/>
+	<img src="https://github-readme-activity-graph.cyclic.app/graph?username=awaisayub149&theme=github"/>
 </p>
 
 ## 💳 Github Profile Summary Card
