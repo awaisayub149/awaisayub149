@@ -30,14 +30,14 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awaisayub149&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awaisayub149&theme=github_dark"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=awaisayub149&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=awaisayub149&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=awaisayub149&show_icons=true&theme=github_dark" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=awaisayub149&theme=github_dark" />
 </p>
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
