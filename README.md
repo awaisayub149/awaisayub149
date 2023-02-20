@@ -36,8 +36,8 @@
 ## 📟 GitHub Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=awaisayub149&show_icons=true&theme=github_dark" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=awaisayub149&theme=github_dark" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=awaisayub149&theme=dark" />
 </p>
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
